@@ -1,5 +1,4 @@
-# character-assets
-Open character illustrations and 3D model assets
+
 # Character Assets
 
 Open character illustration and 3D model assets.
